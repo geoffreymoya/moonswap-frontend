@@ -1,0 +1,14 @@
+[
+  {
+    "address": "0xc2e8018e930c866a36e1264954f48a001134f17c",
+    "decimals": "18",
+    "name": "Rocket propellant 1",
+    "symbol": "RP1"
+  },
+  {
+    "address": "0x6fAc729f346A46fC0093126f237b4A520c40eb89",
+    "decimals": "18",
+    "name": "Smart advertising transaction token",
+    "symbol": "SATT"
+  },
+]

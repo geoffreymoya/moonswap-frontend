@@ -1,0 +1,20 @@
+@import 'src/styles/vars';
+
+.section {
+  &__header {
+    padding: 27px 32px;
+    background: $bg-gradient;
+    border-radius: 40px 40px 0px 0px;
+  }
+
+  &__body {
+    padding: 20px;
+
+    // display: flex;
+    // flex-flow: row nowrap;
+    // justify-content: center;
+    div {
+      text-align: center;
+    }
+  }
+}

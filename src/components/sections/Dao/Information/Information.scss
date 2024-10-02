@@ -1,0 +1,13 @@
+@import 'src/styles/vars';
+
+.information {
+  padding: 20px;
+  background: $bg-gradient;
+  border-radius: 10px;
+
+  &__title {
+  }
+
+  &__content {
+  }
+}
